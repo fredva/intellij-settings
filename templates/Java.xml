@@ -1,0 +1,10 @@
+<templateSet group="Java">
+  <template name="interfjes" value="import no.digipost.util.JustA;&#10;&#10;@FunctionalInterface&#10;public interface With$CAP$ {&#10;&#10;    static With$CAP$ of($TYPE$ $DECAP$) {&#10;        return new Just$CAP$($DECAP$);&#10;    }&#10;&#10;    class Just$CAP$ extends JustA&lt;$TYPE$&gt; implements With$CAP$ {&#10;&#10;        public Just$CAP$($TYPE$ $DECAP$) {&#10;            super($DECAP$);&#10;        }&#10;&#10;        @Override&#10;        public $TYPE$ get$CAP$() {&#10;            return theValue;&#10;        }&#10;&#10;    }&#10;&#10;    $TYPE$ get$CAP$();&#10;}" description="Interface" toReformat="false" toShortenFQNames="true">
+    <variable name="CAP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="&quot;String&quot;" alwaysStopAt="true" />
+    <variable name="DECAP" expression="" defaultValue="decapitalize(CAP)" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
