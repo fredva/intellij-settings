@@ -17,12 +17,13 @@
       <mask>*Dao</mask>
       <mask>*Dao*</mask>
       <mask>p</mask>
-      <mask>pom</mask>
       <mask>pom.</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*Test.</mask>
       <mask>*Test.java</mask>
+      <mask>pom</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
