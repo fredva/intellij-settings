@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,18 +17,18 @@
       <mask>*.xml</mask>
       <mask>*Dao</mask>
       <mask>*Dao*</mask>
-      <mask>p</mask>
-      <mask>pom.</mask>
       <mask>*Test.</mask>
       <mask>*Test.java</mask>
-      <mask>pom</mask>
       <mask>pom.x</mask>
-      <mask>pom.xml</mask>
       <mask>Æ</mask>
       <mask>*</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
