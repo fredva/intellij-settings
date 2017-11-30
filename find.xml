@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,18 +18,21 @@
       <mask>*Dao*</mask>
       <mask>*Test.</mask>
       <mask>*Test.java</mask>
-      <mask>pom.x</mask>
       <mask>Æ</mask>
-      <mask>p</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.pom</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
